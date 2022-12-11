@@ -17,7 +17,7 @@ THIS IS FOR EDUCATIONAL PURPOSES ONLY, PLEASE DO NOT RUIN OTHER PLAYERS EXPERIEN
 
 This works on some other servers also
 
-![image](https://i.ytimg.com/vi/LJzKhL2uZ8o/maxresdefault.jpg](https://hypixel.net/attachments/1686764)
+![image](https://i.ytimg.com/vi/UUKq59-MUKo/maxresdefault.jpg)
 ## Features
 <details>
 <summary>Features (Drop Down)</summary>
